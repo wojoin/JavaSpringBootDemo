@@ -35,11 +35,11 @@
     </a>
 </p>
 
-# Project from [Spring Boot 2.0](https://medium.com/the-resonant-web/spring-boot-2-0-starter-kit-part-1-23ddff0c7da2)
+# Project from [Arpit Khandelwal Spring Boot 2.0](https://medium.com/the-resonant-web/spring-boot-2-0-starter-kit-part-1-23ddff0c7da2)
 
 
 ## Table of Contents ##
-- [Project from Spring Boot 2.0](#project-from-spring-boot-20)
+- [Project from Arpit Khandelwal Spring Boot 2.0](#project-from-arpit-khandelwal-spring-boot-20)
   - [Table of Contents](#table-of-contents)
   - [Philosophy](#philosophy)
   - [Medium Articles](#medium-articles)
